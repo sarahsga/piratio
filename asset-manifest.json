@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/piratio/static/css/main.e1421abf.chunk.css",
+    "main.js": "/piratio/static/js/main.8d41d939.chunk.js",
+    "main.js.map": "/piratio/static/js/main.8d41d939.chunk.js.map",
+    "runtime~main.js": "/piratio/static/js/runtime~main.0d9690fe.js",
+    "runtime~main.js.map": "/piratio/static/js/runtime~main.0d9690fe.js.map",
+    "static/js/2.a18f6c80.chunk.js": "/piratio/static/js/2.a18f6c80.chunk.js",
+    "static/js/2.a18f6c80.chunk.js.map": "/piratio/static/js/2.a18f6c80.chunk.js.map",
+    "index.html": "/piratio/index.html",
+    "precache-manifest.ea64ecc84eddffe718f241018a5d79d3.js": "/piratio/precache-manifest.ea64ecc84eddffe718f241018a5d79d3.js",
+    "service-worker.js": "/piratio/service-worker.js",
+    "static/css/main.e1421abf.chunk.css.map": "/piratio/static/css/main.e1421abf.chunk.css.map"
+  }
+}
